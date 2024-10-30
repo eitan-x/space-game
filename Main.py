@@ -19,7 +19,7 @@ BG = pygame.transform.scale(
     pygame.image.load("bg.jpeg"),
     (WIDTH, HEIGHT)
 )
-pygame.mixer.music.load("theme.mp3")
+pygame.mixer.music.load("music.mp3")
 pygame.mixer.music.play(-1)
 
 PLAYER_VEL = 5
