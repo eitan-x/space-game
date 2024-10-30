@@ -95,4 +95,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 ## One last thing
-**have fun!!!
+ **have fun!!!**
