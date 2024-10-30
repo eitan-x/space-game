@@ -27,13 +27,13 @@ BULLET_VEL = 10
 FONT = pygame.font.SysFont("comicsans", 30)
 
 # Load images
-PLAYER_IMG = pygame.image.load(r"C:\Users\איתן לפאיר\Downloads\player.png")
+PLAYER_IMG = pygame.image.load("player.png")
 PLAYER_IMG = pygame.transform.scale(PLAYER_IMG, (60, 60))
 
-ENEMY_IMG = pygame.image.load(r"C:\Users\איתן לפאיר\Downloads\enemy.png")
+ENEMY_IMG = pygame.image.load("enemy.png")
 ENEMY_IMG = pygame.transform.scale(ENEMY_IMG, (40, 40))
 
-BULLET_IMG = pygame.image.load(r"C:\Users\איתן לפאיר\Downloads\bullet.png")
+BULLET_IMG = pygame.image.load("bullet.png")
 BULLET_IMG = pygame.transform.scale(BULLET_IMG, (20, 40))
 
 SPECIAL_POWER_COST = 10
