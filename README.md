@@ -15,7 +15,7 @@
 ## Requirements
 - Python 3.x
 - Pygame library
-
+- CustomTkinter
 ## Installation
 1. Clone this repository:
    ```bash
@@ -29,7 +29,10 @@
    ```bash
    pip install pygame
    ```
-
+4. Install the CustomTkinter library if you haven't already:
+   ```bash
+   pip install customtkinter
+   ```
 ## Running the Game
 To start the game, run the following command:
 ```bash
